@@ -4,7 +4,7 @@
 
 * **Email**: aaa1170@naver.com
 * **Phone**: 010-4025-8807
-* **portfolio: * **[🔗 [GitHub Repository Link]([https://github.com/beomsuson/Master-Thesis-ott-impact-staggered-did](https://github.com/beomsuson/portfolio/blob/main/%EA%B3%B5%ED%86%B5%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf))]** 
+* **portfolio: * **[🔗 [[GitHub Repository Link](https://github.com/beomsuson/portfolio/blob/main/%EA%B3%B5%ED%86%B5%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)]
 * **Education**:
   * 한양대학교 일반대학원 비즈니스인포매틱스학과 (2024.02 ~ 2026.02)
   * 강남대학교 글로벌경영학부 / 데이터컨설팅 연계전공 (2017.03 ~ 2024.02)
