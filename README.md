@@ -26,7 +26,7 @@
   * 영화의 넷플릭스 공개 시점을 외생적 충격으로 설정하여, 다중 시점 이중차분법(Staggered DID)을 통해 평점과 리뷰 텍스트 감성의 변화를 인과적으로 분석했습니다.
   * `KOBERT`와 `KcELECTRA` 모델을 활용해 리뷰 텍스트에서 긍/부정 극성과 Plutchik 8가지 기본 감정을 정량화했습니다.
 * **성과**: OTT 전환 이후 '기대-불일치 이론'에 따라 유저 평점과 긍정적 감정(기쁨, 놀람 등)이 유의하게 상승함을 입증했으며, 극장 개봉 후 OTT 전환까지의 시차(Release Time)에 따른 최근성 편향 효과를 밝혀냈습니다.
-* **[🔗 GitHub Repository Link]** *(여기에 석사 논문 레포지토리 링크를 넣어주세요)*
+* **[🔗 [GitHub Repository Link](https://github.com/beomsuson/Master-Thesis-ott-impact-staggered-did)]** 
 
 ### 2. 중대재해처벌법 시행 효과에 대한 실증 분석 (2025 산업안전 상생 논문 경진대회)
 * **기간**: 2025.03.17 ~ 2025.09.11
@@ -42,7 +42,7 @@
 * **내용**: 
   * 기존 시/군/구 단위 인구 소멸 지수의 한계를 극복하기 위해 행정동 단위의 총인구, 산업체, 종사자 데이터를 병합하여 XGBoost 기반 예측 모델을 구축했습니다.
 * **성과**: 🏆 **통계청장상(장려상) 수상** | 지역 산업 기반(특히 2차 산업 및 서비스업)이 인구 소멸에 미치는 치명적인 영향을 변수 중요도로 입증하고, 에너지-테크 클러스터 조성 등 실질적 정책을 제안했습니다.
-* **[🔗 GitHub Repository Link]** *(여기에 통계청 대회 레포지토리 링크를 넣어주세요)*
+* **[🔗 [GitHub Repository Link](https://github.com/beomsuson/2024_Statistical_Data_Utilization_Competition_Report_Category)]** 
 
 ### 4. 스마트공장 제품 품질 상태분류 AI 모델 개발 (LG Aimers)
 * **기간**: 2023.01.02 ~ 2023.02.28
@@ -51,7 +51,7 @@
   * 제조 공정 비식별 데이터를 기반으로 제품의 품질 상태(적합/미달/초과)를 예측하는 AI 분류 모델을 개발했습니다.
   * 클래스 불균형 문제를 진단하고 Stratified K-Fold와 Borderline SMOTE를 도입하여 소수 클래스의 예측 성능을 대폭 향상시켰습니다.
 * **성과**: 🏆 **온라인 해커톤(Phase 2) 상위 3% (14위 / 495팀)**
-* **[🔗 GitHub Repository Link]** *(여기에 LG Aimers 레포지토리 링크를 넣어주세요)*
+* **[🔗 [GitHub Repository Link](https://github.com/beomsuson/LGAimers-Phase3)]** 
 
 ### 5. 장애인 이동권 개선을 위한 저상버스 경로제안 (데이터 청년 캠퍼스)
 * **기간**: 2022.06.27 ~ 2022.08.31
