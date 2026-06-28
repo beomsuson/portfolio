@@ -59,3 +59,4 @@
 * **내용**: 
   * 장애인 시설 및 교통 데이터를 수집하고, 정류소 간 거리 및 장애인 인구 분포를 기준으로 K-means 클러스터링과 Greedy 알고리즘을 적용해 저상버스 신규 노선을 제안했습니다.
 * **성과**: 🏆 **우수상 수상**
+* **[🔗 [GitHub Repository Link]([https://github.com/beomsuson/LGAimers-Phase3](https://github.com/beomsuson/Guaranteed-mobility-rights-for-the-disabled_low-floor-bus))]** 
